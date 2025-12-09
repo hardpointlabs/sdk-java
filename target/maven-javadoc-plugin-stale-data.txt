@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--no-fonts
+--class-path
+'/Users/chris/.m2/repository/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar'
+--module-path
+'/Users/chris/hardpoint/sdks/sdk-java/target/classes'
+--patch-module
+dev.hardpoint.sdk='/Users/chris/hardpoint/sdks/sdk-java/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2025 Hardpoint Labs. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'sdk-java 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/chris/hardpoint/sdks/sdk-java/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'sdk-java 1.0-SNAPSHOT API'
+dev.hardpoint.sdk
+'/Users/chris/hardpoint/sdks/sdk-java/src/main/java/module-info.java'
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/tag-search-index.js = 1765297363257
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/overview-tree.html = 1765297363253
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/module-search-index.js = 1765297363256
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/index.html = 1765297363260
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/package-search-index.js = 1765297363256
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/index-all.html = 1765297363259
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/allpackages-index.html = 1765297363256
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/member-search-index.js = 1765297363257
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/help-doc.html = 1765297363261
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/element-list = 1765297363238
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/search.html = 1765297363260
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/allclasses-index.html = 1765297363255
+/Users/chris/hardpoint/sdks/sdk-java/target/reports/apidocs/type-search-index.js = 1765297363256
