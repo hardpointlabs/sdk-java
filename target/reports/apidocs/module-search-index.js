@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"dev.hardpoint.sdk"}];updateSearchResults();
